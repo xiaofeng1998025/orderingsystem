@@ -272,18 +272,3 @@
 </style>
 
 
-overtime 日期，
-payamount 账单金额，
-rmbamount 人民币
-bankamount 银行卡
-zhifubaoamount 支付宝
-weixinamount 微信
-youhuiquannum 优惠券金额
-tuangouyouhui 优惠券优惠金额
-qiandanamount 签单金额
-yueamount 储值卡（余额）
-sanbeiamount 三倍充值免单
-bawangamount 霸王餐金额
-miandanamount 免单金额
-income 营业收入
-freeincome 非营业收入
